@@ -17,4 +17,5 @@ Neler Olmalı?
 •	En pratik çözümü olmalıdır.
 
 AKADEMİK DÜRÜSTLÜK YEMİNİ
+
 Bu soruyu çözerken internetten hazır kod kopyalamayacağıma, interneti sadece kodları incelemek ve algoritmasını anlamak için kullanacağıma yemin ederim.
