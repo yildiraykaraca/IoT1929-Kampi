@@ -1,4 +1,4 @@
-!.:.:. Bu Sete 2 Adet Çözüm Eklenmiştir .:.:.!
+Bu Sete 2 Adet Çözüm Eklenmiştir
 
 IOT1929 – Arduino Problem Seti 2
 
