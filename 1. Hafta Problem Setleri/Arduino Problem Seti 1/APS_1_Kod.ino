@@ -1,3 +1,8 @@
+/* 
+ *  Yıldıray KARACA IoT1929 Kampı İçin Arduino Problem Seti 1 Çözümü.
+ *  mail: yildiraykaraca@icloud.com
+ *  github: https://github.com/yildiraykaraca
+*/
 void setup()
 { 
   for(int LedSirasi = 2; LedSirasi<=6; LedSirasi++) //Pin Numaralarını Baz Alarak Döngü Tanımladım.

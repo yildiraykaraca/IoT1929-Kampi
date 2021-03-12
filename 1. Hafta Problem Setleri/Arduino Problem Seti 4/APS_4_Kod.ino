@@ -1,3 +1,9 @@
+/* 
+ *  Yıldıray KARACA IoT1929 Kampı İçin Arduino Problem Seti 4 Çözümü.
+ *  mail: yildiraykaraca@icloud.com
+ *  github: https://github.com/yildiraykaraca
+*/
+ 
 #define POT A0   // A0 Pinini POT Adında Tutturdum.
 #define DC 3     // 3. Pini DC Adında Tutturdum.
 #define LED 2    // 2. Pini LED Adında Tutturdum.

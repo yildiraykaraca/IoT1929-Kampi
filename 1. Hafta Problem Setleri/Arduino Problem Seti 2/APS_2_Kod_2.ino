@@ -1,3 +1,9 @@
+/* 
+ *  Yıldıray KARACA IoT1929 Kampı İçin Arduino Problem Seti 2 Çözümü.
+ *  mail: yildiraykaraca@icloud.com
+ *  github: https://github.com/yildiraykaraca
+*/
+ 
 #define Kirmizi 2 //"Kirmizi" Adında 2 Numaralı Pine Bağlı Değişken Oluştur.
 #define Sari 3    //"Sari" Adında 3 Numaralı Pine Bağı Değişken Oluştur.
 #define Yesil 4   //"Yesil" Adında 4 Numaralı Pine Bağlı Değişken Oluştur.
